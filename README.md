@@ -11,6 +11,6 @@ I have also aimed to answer questions such as whether or not first class passeng
 
 ## Kmeans_task.ipynb
 
-This is a file that delves into the intricacies of the unsupervised machine learning model k-means clustering.
+This is a file that delves into the intricacies of the unsupervised machine learning algorithm k-means clustering.
 This file shows how to implement a k-means clustering algorithm in Python.
 It also depicts an idea of how closely the hidden patterns discovered accurately represent the real data and the factors separating each cluster and how can label them.
