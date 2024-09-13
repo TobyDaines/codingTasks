@@ -14,3 +14,14 @@ I have also aimed to answer questions such as whether or not first class passeng
 This is a file that delves into the intricacies of the unsupervised machine learning algorithm k-means clustering.
 This file shows how to implement a k-means clustering algorithm in Python.
 It also depicts an idea of how closely the hidden patterns discovered accurately represent the real data and the factors separating each cluster and how we can label them.
+
+## sentiment_analysis.py
+
+This is a file that explores the power of natural language processing using spacy.
+For a given set of customer reviews, how are workers able to gather insights about their product if it means they would have to read through thousands of reviews?
+Luckily, this simple programme of sentiment analysis can extract all of those reviews and tell us whether they are positive, negative or neutral just by data cleaning and extracting the key words.
+
+## neural_network_task.ipynb
+
+This file explores the new and fascinating concept of neural networks, a machine learning algorithm that learns by mimicking the behaviour of synapses in our brain.
+This is an introductory file that explores how logic gates can be coded in Python.
