@@ -25,3 +25,9 @@ Luckily, this simple programme of sentiment analysis can extract all of those re
 
 This file explores the new and fascinating concept of neural networks, a machine learning algorithm that learns by mimicking the behaviour of synapses in our brain.
 This is an introductory file that explores how logic gates can be coded in Python.
+
+## Multiple Linear regression.ipynb
+
+This is a file that explores the supervised machine learning algorithm: multiple linear regression. 
+This is very useful for comparing different values of multple pieces of linear data including gradient and intercepts.
+For this file, we are comparing house prices in different locations.
