@@ -31,3 +31,9 @@ This is an introductory file that explores how logic gates can be coded in Pytho
 This is a file that explores the supervised machine learning algorithm: multiple linear regression. 
 This is very useful for comparing different values of multple pieces of linear data including gradient and intercepts.
 For this file, we are comparing house prices in different locations.
+
+## mnist_task.ipynb
+
+This file explores image processing using the supervised machine learning model: random forests.
+It uses the famous mnist dataset containing small images of handwritten numerical digits.
+By sorting these images into training and test sets, our algorithm can suggest what number a new handwritten digit is likely to be with a high degree of accuracy.
