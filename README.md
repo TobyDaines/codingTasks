@@ -37,3 +37,9 @@ For this file, we are comparing house prices in different locations.
 This file explores image processing using the supervised machine learning model: random forests.
 It uses the famous mnist dataset containing small images of handwritten numerical digits.
 By sorting these images into training and test sets, our algorithm can suggest what number a new handwritten digit is likely to be with a high degree of accuracy.
+
+## decision_tree_titanic
+
+This file explores the concept of decision trees using our beloved titanic dataset.
+Decision trees are used in many different disciplines but here we are determining how different factors affect survival rate.
+Our machine learning model creates a flowchart to assess how closely a proposed set of variables affecting survival rate mirrors the real data.
