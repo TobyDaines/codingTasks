@@ -43,3 +43,8 @@ By sorting these images into training and test sets, our algorithm can suggest w
 This file explores the concept of decision trees using our beloved titanic dataset.
 Decision trees are used in many different disciplines but here we are determining how different factors affect survival rate.
 Our machine learning model creates a flowchart to assess how closely a proposed set of variables affecting survival rate mirrors the real data.
+
+## simple_and_multiple_linear_regression.ipynb
+
+This file explores simple linear regression and multiple linear regression and identifies the best scenarios to use either one.
+These models can be really useful to predict certain values of a given dataset and very clearly identifies trends for linear data.
