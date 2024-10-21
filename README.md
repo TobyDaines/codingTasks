@@ -48,3 +48,10 @@ Our machine learning model creates a flowchart to assess how closely a proposed 
 
 This file explores simple linear regression and multiple linear regression and identifies the best scenarios to use either one.
 These models can be really useful to predict certain values of a given dataset and very clearly identifies trends for linear data.
+
+## Feature Scaling example.ipynb
+
+This file gives us an example of how feature scaling can be used for data analysis.
+We are given some data where the scale of one of the variables is far different from the rest of the variables.
+We are unable to numerically compare the rest of the values with this one so we need to apply feature scaling.
+By doing this, the scales of all of the variables are standardised meaning we can numerically compare them without any trouble.
